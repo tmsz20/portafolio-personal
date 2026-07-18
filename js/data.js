@@ -22,10 +22,10 @@ const projects = [
     {
         id: 2,
         title: "1337tech E-commerce",
-        description: "Tienda de electrónica desarrollada como proyecto del curso de frontend. Incluye catálogo de productos con cards interactivas, sección multimedia, reseñas de clientes y formulario de contacto funcional. Diseño responsive pensado para desktop y mobile.",
-        technologies: ["HTML5", "CSS3", "JavaScript"],
-        demoLink: "#",
-        repoLink: "#",
+        description: "Tienda de electrónica desarrollada como proyecto del curso de frontend. Incluye catálogo de productos con cards interactivas, sección de reseñas y carrito de compras funcional con persistencia en LocalStorage. Diseño responsive pensado para desktop y mobile.",
+        technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap 5"],
+        demoLink: "https://tmsz20.github.io/Pre-entrega-pagina-web-ecommerce/",
+        repoLink: "https://github.com/tmsz20/Pre-entrega-pagina-web-ecommerce",
         featured: true
     },
     // Aca podes agregar mas proyectos. Ejemplo:
